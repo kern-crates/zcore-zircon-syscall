@@ -11,3 +11,4 @@ description = "Zircon syscalls implementation"
 log = "0.4"
 bitflags = "1.2"
 zircon-object = { path = "../zircon-object" }
+kernel-hal = { path = "../kernel-hal" }
